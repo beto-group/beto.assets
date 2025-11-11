@@ -20,7 +20,7 @@ config.local.php
 *.tmp
 
 # Ignore operating system files
-.DS_Store
+*.DS_Store
 Thumbs.db
 
 # Ignore IDE/editor-specific folders
