@@ -3,6 +3,8 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-export-transparent: true
+A888a:
+  - hot+
 ---
 
 ![[image-185.png]]

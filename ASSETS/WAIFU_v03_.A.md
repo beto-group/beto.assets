@@ -4,6 +4,8 @@ tags:
   - excalidraw
 excalidraw-export-transparent: true
 excalidraw-autoexport: svg
+A888a:
+  - hot+
 ---
 
 ![[image-287.png]]

@@ -3,6 +3,8 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-export-transparent: true
+A888a:
+  - hot+
 ---
 
 The word "with" originates from Old English "wiþ," meaning "against, opposite, toward" in some contexts, and also "with, together with, among." It is related to Old Saxon "with," Old Norse "við," Gothic "wiþra," and Old High German "widar," all carrying the idea of opposition or nearness. Over time, its meaning evolved to emphasize accompaniment and association
